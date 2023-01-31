@@ -13,7 +13,6 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/profile-snake-contrib/github-contribution-grid-snake.svg" />
 </div>
-<br>
 
 <!--  skill badge 技能徽章 -->
 <h1 align="center">🛠Languages and Tools🛠</h1>
@@ -32,13 +31,13 @@
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
+<br>
 <div align="center">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/cssgif.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/vscode.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/react.webp">
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/github.webp">
 </div>
