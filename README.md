@@ -35,10 +35,10 @@
 <div align="center">
 <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/html.webp">
 <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/cssgif.webp">
-<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/vscode.webp">
+<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/js.webp">
 <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/react.webp">
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/vue.webp">
-<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/js.webp">
+<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/vscode.webp">
 <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/Oguri-Chen/Oguri-Chen/assets/images/github.webp">
 </div>
 <br>
