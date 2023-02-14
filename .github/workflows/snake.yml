@@ -4,7 +4,6 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
-  # allows to manually run the job at any time
   workflow_dispatch:
 
 jobs:
